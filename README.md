@@ -16,7 +16,7 @@ A 0 B F     Z X C V
  chip8       local
 ```
 
-## Sources
+## Acknowledgements
 
 - https://en.wikipedia.org/wiki/CHIP-8
 - For the inspiration: https://tobiasvl.github.io/blog/write-a-chip-8-emulator/
