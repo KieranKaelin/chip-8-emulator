@@ -4,12 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-env_logger = "0.10"
-error-iter = "0.4"
-lazy_static = "1.5.0"
-log = "0.4"
 pixels = "0.15.0"
 rand = "0.9.0"
 rodio = "0.20.1"
 winit = "0.29"
-winit_input_helper = "0.15"
